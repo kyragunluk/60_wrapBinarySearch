@@ -1,7 +1,9 @@
-What is meant by y = log2x ? Express its meaning in a .
-y = log2x means that 2^y = x, or the power that 2 needs to be raised to in order to get x, is y.
+What is meant by count = log2n ?  Answer in 1–2 sentences .
+ycount = log2n means that 2^count = n, or the power that 2 needs to be raised to in order to get n, is count.
 
 What does its graph look like?
+say x = n
+and y = count
 Its graph looks like the graph of y = 2^x, reflected over the line y=x. Essentially if you were to graph 2^y = x. It increases rapidly between x = 0 and x = 1, and y is negative. after x = 1, y is positive and the function increases very slowly.
 
 
